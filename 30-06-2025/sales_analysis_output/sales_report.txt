@@ -1,0 +1,17 @@
+
+        SALES ANALYSIS REPORT
+        =====================
+
+        Summary Statistics:
+        - Total Revenue: $264,650.14
+        - Total Transactions: 500
+        - Average Transaction Value: $529.30
+
+        Key Insights:
+        1. Best Performing Month: January ($35,887.10)
+        2. Top Product Category: Grocery ($56,752.03, 21.4% of total)
+        3. Highest Spending Age Group: 55+ ($63,155.30)
+        4. Gender Distribution:
+           - Male: $140,586.85 (53.1%)
+           - Female: $124,063.29 (46.9%)
+        
