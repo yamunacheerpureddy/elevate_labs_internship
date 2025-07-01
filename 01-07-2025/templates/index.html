@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yamuna Cheerapureddy - Portfolio</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Yamuna Cheerapureddy</h1>
+        <p>Python Developer | Web Developer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Email: yamunacheerapureddy01@gmail.com | Location: Hyderabad, Telangana</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yamuna-cheerapureddy/">Profile</a> |
+           GitHub: <a href="https://github.com/yamunacheerpureddy">Repo</a></p>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>To-Do List:</strong> HTML, CSS-based task manager with dynamic features.</li>
+            <li><strong>ATM Application:</strong> Command-line Python app simulating ATM operations.</li>
+            <li><strong>Employee Info System:</strong> File-handling CRUD operations in Python.</li>
+            <li><strong>IPL DBMS:</strong> SQL database for analyzing cricket match data.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p><a href="{{ url_for('contact') }}">Contact Me</a></p>
+    </section>
+</body>
+</html>
