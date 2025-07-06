@@ -1,0 +1,5 @@
+# This project has no external dependencies
+# Python 3.x is required
+
+# If you add any dependencies in the future, list them here:
+# package-name==version
